@@ -83,5 +83,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 MIT License. See `LICENSE` file for details.
 
 ## Contact
-For questions or support, reach out to `your.email@example.com` or create an issue on GitHub.
+For questions or support, reach out to `dmrityunjay32@gmail.com` or create an issue on GitHub.
 
